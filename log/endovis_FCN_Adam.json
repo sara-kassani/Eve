@@ -1,4 +1,4 @@
-{  
+{   
     "backend": "tensorflow",
     "batch_size": 16,
     "class_name": "Model",
