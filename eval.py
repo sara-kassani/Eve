@@ -1,4 +1,4 @@
-import json n 
+import json
 import glob
 import argparse
 import matplotlib.pylab as plt
