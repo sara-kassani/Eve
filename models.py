@@ -1,4 +1,4 @@
-from keras.models import Model    
+from keras.models import Model
 from keras.layers.core import Activation, Flatten, Dense, Dropout
 from keras.layers.convolutional import Conv2D
 from keras.layers.pooling import MaxPooling2D
